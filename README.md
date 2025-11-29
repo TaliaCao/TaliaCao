@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 I'm a **finance professional** and **data analyst** with 5+ years of experience in 
-**financial modelling**, **business intelligence** and **process automation**. I specialise 
+financial modelling, business intelligence and process automation. I specialise 
 in transforming complex business data into actionable insights through 
-**Power BI dashboards** and **advanced Excel solutions**.
+Power BI dashboards and advanced Excel solutions.
 
 As a **project manager** and **proactive problem solver**, I’ve delivered projects in 
 over **10 industries** (government, banking, finance, real estate, agriculture, 
