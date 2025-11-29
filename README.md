@@ -31,18 +31,18 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
 - 🎤 Speaker at Excel Virtually Global conferences (2021-2025), reaching 5,000+ professionals
 
 ### 🌟 Core Expertise
- ► **Financial Modelling & Analysis**: best-practice financial models (3-statement models, 
+- **Financial Modelling & Analysis**: best-practice financial models (3-statement models, 
  project finance, actuals, budget, forecast, variance, scenario analyses, consolidated 
  statutory financial statements, management reports, valuations) & operational models
- ► **Business Intelligence**: data analysis & dynamic Excel/Power BI dashboards for strategic decision making
- ► **Automation**: reporting & process improvements.
+- **Business Intelligence**: data analysis & dynamic Excel/Power BI dashboards for strategic decision making
+- **Automation**: reporting & process improvements.
 
 ### 🔧 Technical Proficiency
- ► **Excel**: PivotTables, Dynamic Arrays, LET/LAMBDA, Power Query, Power Pivot, VBA, Office Scripts
- ► **Power BI**: M, DAX, ETL, data modelling, visualisation
- ► **Power Automate**: cloud & desktop flows, AI Builder
- ► **Power Apps**: Solutions, Dataverse, Dynamics 365, Power Fx
- ► **SQL**: subqueries, joins, window functions, CTEs.
+- **Excel**: PivotTables, Dynamic Arrays, LET/LAMBDA, Power Query, Power Pivot, VBA, Office Scripts
+- **Power BI**: M, DAX, ETL, data modelling, visualisation
+- **Power Automate**: cloud & desktop flows, AI Builder
+- **Power Apps**: Solutions, Dataverse, Dynamics 365, Power Fx
+- **SQL**: subqueries, joins, window functions, CTEs.
 
 ### 📂 Featured Projects
 - [Vietnam Shape Map for Power BI](https://github.com/TaliaCao/Vietnam-Shape-Map) - Vietnam geographical visualisation
