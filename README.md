@@ -25,10 +25,11 @@ over **10 industries** (government, banking, finance, real estate, agriculture,
 education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA & UK).
 
 ### 🏆 Highlights
-- 📊 Delivered 60% performance improvement in Power BI dashboards
 - 🤖 Automated reporting processes saving 95% of manual time
+- 📊 Delivered 60% performance improvement in Power BI dashboards
 - 🎓 CPA Australia + Microsoft Certified Power BI Data Analyst (PL-300)
-- 🎤 Speaker at Excel Virtually Global conferences (2021-2025), reaching 5,000+ professionals
+- 🎤 Speaker & coordinator at [Excel Virtually Global](https://www.youtube.com/playlist?list=PLRkcSDfzj3syrHozGszeRl-BYHQHEODkz) conferences (2021-2025), reaching 5,000+ professionals globally
+- ✍🏻 Co-author of Excel challenge blog series ([Final Friday Fix & Monday Morning Mulling](https://sumproduct.com/blog/tag-filters-final-friday-fix-or-monday-morning-mulling/)).
 
 ### 🌟 Core Expertise
 - **Financial Modelling & Analysis**: best-practice financial models (3-statement models, 
@@ -45,7 +46,7 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
 - **SQL**: subqueries, joins, window functions, CTEs.
 
 ### 📂 Featured Projects
-- [Vietnam Shape Map for Power BI](https://github.com/TaliaCao/Vietnam-Shape-Map) - Vietnam geographical visualisation
+- [Vietnam Shape Map](https://github.com/TaliaCao/Vietnam-Shape-Map) - Vietnam geographical visualisation in Power BI
 - [Excel Virtually Global](https://github.com/TaliaCao/Excel-Virtually-Global) - Materials for my Excel Virtually Global sessions
 
 ### 📫 Let's Connect
