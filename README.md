@@ -49,6 +49,6 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
 - [Excel Virtually Global](https://github.com/TaliaCao/Excel-Virtually-Global) - Materials for my Excel Virtually Global sessions
 
 ### 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/caongocdathao](linkedin.com/in/caongocdathao)
+- LinkedIn: [linkedin.com/in/caongocdathao](https://www.linkedin.com/in/caongocdathao/)
 - Email: talia.cao310@gmail.com
 - Portfolio: [GitHub](https://github.com/TaliaCao?tab=repositories)
