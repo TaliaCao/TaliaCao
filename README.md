@@ -24,7 +24,7 @@ Power BI dashboards and advanced Excel solutions.
 As a **project manager** and **proactive problem solver**, I’ve delivered projects in 
 over **10 industries** (government, banking, finance, real estate, agriculture, 
 education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA & UK).
-
+***
 ---
 ### 🏆 Highlights
 - 🤖 Automated reporting processes saving 95% of manual time
