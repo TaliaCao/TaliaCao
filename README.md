@@ -1,4 +1,4 @@
-# Hi there, I'm Talia Cao 👋
+# Hi, I'm Talia Cao 👋
 ## 💼 Finance & Business Intelligence Consultant | CPA Australia | 60+ projects
 <!--
 **TaliaCao/TaliaCao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
