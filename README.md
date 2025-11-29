@@ -48,9 +48,6 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
 - [Vietnam Shape Map for Power BI](https://github.com/TaliaCao/Vietnam-Shape-Map) - Vietnam geographical visualisation
 - [Excel Virtually Global](https://github.com/TaliaCao/Excel-Virtually-Global) - Materials for my Excel Virtually Global sessions
 
-### 📊 GitHub Stats
-![Talia's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaliaCao)
-
 ### 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/caongocdathao](linkedin.com/in/caongocdathao)
 - Email: talia.cao310@gmail.com
