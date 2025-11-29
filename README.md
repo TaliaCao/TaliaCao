@@ -25,12 +25,14 @@ As a **project manager** and **proactive problem solver**, I’ve delivered proj
 over **10 industries** (government, banking, finance, real estate, agriculture, 
 education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA & UK).
 &NewLine;
+&NewLine;
 #### 🏆 Highlights
 - 🤖 Automated reporting processes saving 95% of manual time
 - 📊 Delivered 60% performance improvement in Power BI dashboards
 - 🎓 CPA Australia + Microsoft Certified Power BI Data Analyst (PL-300)
 - 🎤 Speaker & coordinator at [**Excel Virtually Global**](https://www.youtube.com/playlist?list=PLRkcSDfzj3syrHozGszeRl-BYHQHEODkz) conferences (2021-2025), reaching 5,000+ professionals globally
 - ✍🏻 Co-author of **Excel challenge blog series** ([Final Friday Fix & Monday Morning Mulling](https://sumproduct.com/blog/tag-filters-final-friday-fix-or-monday-morning-mulling/)).
+&NewLine;
 &NewLine;
 #### 🌟 Core Expertise
 - **Financial Modelling & Analysis**: best-practice financial models (3-statement models, 
@@ -39,6 +41,7 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
 - **Business Intelligence**: data analysis & dynamic Excel/Power BI dashboards for strategic decision making
 - **Automation**: reporting & process improvements.
 &NewLine;
+&NewLine;
 #### 🔧 Technical Proficiency
 - **Excel**: PivotTables, Dynamic Arrays, LET/LAMBDA, Power Query, Power Pivot, VBA, Office Scripts
 - **Power BI**: M, DAX, ETL, data modelling, visualisation
@@ -46,9 +49,11 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
 - **Power Apps**: Solutions, Dataverse, Dynamics 365, Power Fx
 - **SQL**: subqueries, joins, window functions, CTEs.
 &NewLine;
+&NewLine;
 #### 📂 Featured Projects
 - [Vietnam Shape Map](https://github.com/TaliaCao/Vietnam-Shape-Map) - Vietnam geographical visualisation in Power BI
 - [Excel Virtually Global](https://github.com/TaliaCao/Excel-Virtually-Global) - Materials for my Excel Virtually Global sessions
+&NewLine;
 &NewLine;
 #### 📫 Let's Connect
 - LinkedIn: [linkedin.com/in/caongocdathao](https://www.linkedin.com/in/caongocdathao/)
