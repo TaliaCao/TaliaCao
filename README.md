@@ -25,7 +25,6 @@ As a **project manager** and **proactive problem solver**, I’ve delivered proj
 over **10 industries** (government, banking, finance, real estate, agriculture, 
 education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA & UK).
 ***
----
 ### 🏆 Highlights
 - 🤖 Automated reporting processes saving 95% of manual time
 - 📊 Delivered 60% performance improvement in Power BI dashboards
