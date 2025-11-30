@@ -1,4 +1,12 @@
 ## Hi, I'm [Talia Cao](https://taliacao.github.io)! <img src="https://cdn-icons-png.flaticon.com/512/3798/3798302.png" width="20">
+<p>
+    <a href="https://www.linkedin.com/in/caongocdathao"><img title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"></a>
+    <a href="mailto:talia.cao310@gmail.com?subject=Hi%20Talia,%20From%20Github"><img title="Connect via Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/TaliaCao"><img title="Connect on GitHub" src="https://img.shields.io/badge/-@TaliaCao-181717?style=flat&logo=GitHub&logoColor=white"></a>
+    <a href="https://youtube.com/playlist?list=PLRkcSDfzj3syrHozGszeRl-BYHQHEODkz&si=0ptpe2ArdJ-Na2lj"><img title="My YouTube playlist" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"></a>
+    <a href="https://taliacao.github.io"><img title="Visit my website" src="https://img.shields.io/badge/-🌐 Website-008080?style=flat"></a>
+</p>
+
 #### 💼 Finance & Business Intelligence Consultant | CPA Australia | 60+ projects
 <!--
 **TaliaCao/TaliaCao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -64,12 +72,5 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
     </ul>
   <br/>
 </details>
-<h4>📫 Let's Connect</h4>
-<p align="center">
-    <a href="https://www.linkedin.com/in/caongocdathao"><img title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white"></a>
-    <a href="mailto:talia.cao310@gmail.com?subject=Hi%20Talia,%20From%20Github"><img title="Connect via Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>
-    <a href="https://github.com/TaliaCao"><img title="Connect on GitHub" src="https://img.shields.io/badge/-@TaliaCao-181717?style=flat&logo=GitHub&logoColor=white"></a>
-    <a href="https://youtube.com/playlist?list=PLRkcSDfzj3syrHozGszeRl-BYHQHEODkz&si=0ptpe2ArdJ-Na2lj"><img title="My YouTube playlist" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"></a>
-    <a href="https://taliacao.github.io"><img title="Visit my website" src="https://img.shields.io/badge/-🌐 Website-008080?style=flat"></a>
-</p>
+
 <h3  align="center"> <img src="https://cdn-icons-png.flaticon.com/512/1157/1157026.png" width="20"> Check Out My Repos ⬇️ </h3>
