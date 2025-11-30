@@ -30,9 +30,10 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
 - 🎓 CPA Australia + Microsoft Certified Power BI Data Analyst (PL-300)
 - 🎤 Speaker & coordinator at [**Excel Virtually Global**](https://www.youtube.com/playlist?list=PLRkcSDfzj3syrHozGszeRl-BYHQHEODkz) conferences (2021-2025), reaching 5,000+ professionals globally
 - ✍🏻 Co-author of **Excel challenge blog series** ([Final Friday Fix & Monday Morning Mulling](https://sumproduct.com/blog/tag-filters-final-friday-fix-or-monday-morning-mulling/)).
-<br/><br/>
+<br/>
 <details>
-  <summary>🌟 Core Expertise</summary>
+  <summary><strong>🌟 Core Expertise</strong></summary>
+  <br/>
     <ul>
        <li><strong>Financial Modelling & Analysis</strong>: best-practice financial models (3-statement models, 
                    project finance, actuals, budget, forecast, variance, scenario analyses, consolidated 
@@ -40,9 +41,11 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
        <li><strong>Business Intelligence</strong>: data analysis & dynamic Excel/Power BI dashboards for strategic decision making</li>
        <li><strong>Automation</strong>: reporting & process improvements.</li>
     </ul>
+  <br/>
 </details>
 <details>
-  <summary>🔧 Technical Proficiency</summary>
+  <summary><strong>🔧 Technical Proficiency</strong></summary>
+  <br/>
     <ul>
        <li><strong>Excel</strong>: PivotTables, Dynamic Arrays, LET/LAMBDA, Power Query, Power Pivot, VBA, Office Scripts</li>
        <li><strong>Power BI</strong>: M, DAX, ETL, data modelling, visualisation</li>
@@ -50,13 +53,16 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
        <li><strong>Power Apps</strong>: Solutions, Dataverse, Dynamics 365, Power Fx</li>
        <li><strong>SQL</strong>: subqueries, joins, window functions, CTEs.</li>
     </ul>
+  <br/>
 </details>
 <details>
-  <summary>📂 Featured Projects</summary>
+  <summary><strong>📂 Featured Projects</strong></summary>
+  <br/>
     <ul>
        <li><a href="https://github.com/TaliaCao/Vietnam-Shape-Map">Vietnam Shape Map</a> - Vietnam geographical visualisation in Power BI</li>
        <li><a href="https://github.com/TaliaCao/Excel-Virtually-Global">Excel Virtually Global</a> - Materials for my Excel Virtually Global sessions</li>
     </ul>
+  <br/>
 </details>
 <h4>📫 Let's Connect</h4>
 <p align="center">
@@ -65,5 +71,5 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
     <a href="https://github.com/TaliaCao"><img title="Connect on GitHub" src="https://img.shields.io/badge/-@TaliaCao-181717?style=flat&logo=GitHub&logoColor=white"></a>
     <a href="https://youtube.com/playlist?list=PLRkcSDfzj3syrHozGszeRl-BYHQHEODkz&si=0ptpe2ArdJ-Na2lj"><img title="My YouTube playlist" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"></a>
 </p>
-<br/><br/>
+<br/>
 <h2  align="center"> <img src="https://cdn-icons-png.flaticon.com/512/1157/1157026.png" width="20"> Check Out My Repos ⬇️ </h2>
