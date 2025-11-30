@@ -1,5 +1,4 @@
-## Hi, I'm Talia Cao 👋
-
+## Hi, I'm [Talia Cao](https://taliacao.github.io/)! <img src="https://cdn-icons-png.flaticon.com/512/3798/3798302.png" width="20">
 #### 💼 Finance & Business Intelligence Consultant | CPA Australia | 60+ projects
 <!--
 **TaliaCao/TaliaCao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,25 +31,39 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
 - 🎤 Speaker & coordinator at [**Excel Virtually Global**](https://www.youtube.com/playlist?list=PLRkcSDfzj3syrHozGszeRl-BYHQHEODkz) conferences (2021-2025), reaching 5,000+ professionals globally
 - ✍🏻 Co-author of **Excel challenge blog series** ([Final Friday Fix & Monday Morning Mulling](https://sumproduct.com/blog/tag-filters-final-friday-fix-or-monday-morning-mulling/)).
 <br/><br/>
-#### 🌟 Core Expertise
-- **Financial Modelling & Analysis**: best-practice financial models (3-statement models, 
- project finance, actuals, budget, forecast, variance, scenario analyses, consolidated 
- statutory financial statements, management reports, valuations) & operational models
-- **Business Intelligence**: data analysis & dynamic Excel/Power BI dashboards for strategic decision making
-- **Automation**: reporting & process improvements.
+<details>
+  <summary>🌟 Core Expertise</summary>
+    <ul>
+       <li><strong>Financial Modelling & Analysis</strong>: best-practice financial models (3-statement models, 
+                   project finance, actuals, budget, forecast, variance, scenario analyses, consolidated 
+                   statutory financial statements, management reports, valuations) & operational models</li>
+       <li><strong>Business Intelligence</strong>: data analysis & dynamic Excel/Power BI dashboards for strategic decision making</li>
+       <li><strong>Automation</strong>: reporting & process improvements.</li>
+    </ul>
+</details>
+<details>
+  <summary>🔧 Technical Proficiency</summary>
+    <ul>
+       <li><strong>Excel</strong>: PivotTables, Dynamic Arrays, LET/LAMBDA, Power Query, Power Pivot, VBA, Office Scripts</li>
+       <li><strong>Power BI</strong>: M, DAX, ETL, data modelling, visualisation</li>
+       <li><strong>Power Automate</strong>: cloud & desktop flows, AI Builder</li>
+       <li><strong>Power Apps</strong>: Solutions, Dataverse, Dynamics 365, Power Fx</li>
+       <li><strong>SQL</strong>: subqueries, joins, window functions, CTEs.</li>
+    </ul>
+</details>
+<details>
+  <summary>📂 Featured Projects</summary>
+    <ul>
+       <li><a href="https://github.com/TaliaCao/Vietnam-Shape-Map">Vietnam Shape Map</a> - Vietnam geographical visualisation in Power BI</li>
+       <li><a href="https://github.com/TaliaCao/Excel-Virtually-Global">Excel Virtually Global</a> - Materials for my Excel Virtually Global sessions</li>
+    </ul>
+</details>
+<h4>📫 Let's Connect</h4>
+<p align="center">
+    <a href="https://www.linkedin.com/in/caongocdathao"><img title="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
+    <a href="mailto:talia.cao310@gmail.com?subject=Hi%20Talia,%20From%20Github"><img title="Connect via Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/TaliaCao"><img title="Connect on GitHub" src="https://img.shields.io/badge/-@TaliaCao-181717?style=flat&logo=GitHub&logoColor=white"></a>
+    <a href="https://youtube.com/playlist?list=PLRkcSDfzj3syrHozGszeRl-BYHQHEODkz&si=0ptpe2ArdJ-Na2lj"><img title="My YouTube playlist" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"></a>
+</p>
 <br/><br/>
-#### 🔧 Technical Proficiency
-- **Excel**: PivotTables, Dynamic Arrays, LET/LAMBDA, Power Query, Power Pivot, VBA, Office Scripts
-- **Power BI**: M, DAX, ETL, data modelling, visualisation
-- **Power Automate**: cloud & desktop flows, AI Builder
-- **Power Apps**: Solutions, Dataverse, Dynamics 365, Power Fx
-- **SQL**: subqueries, joins, window functions, CTEs.
-<br/><br/>
-#### 📂 Featured Projects
-- [Vietnam Shape Map](https://github.com/TaliaCao/Vietnam-Shape-Map) - Vietnam geographical visualisation in Power BI
-- [Excel Virtually Global](https://github.com/TaliaCao/Excel-Virtually-Global) - Materials for my Excel Virtually Global sessions
-<br/><br/>
-#### 📫 Let's Connect
-- LinkedIn: [linkedin.com/in/caongocdathao](https://www.linkedin.com/in/caongocdathao/)
-- Email: talia.cao310@gmail.com
-- Portfolio: [GitHub](https://github.com/TaliaCao?tab=repositories)
+<h2  align="center"> <img src="https://cdn-icons-png.flaticon.com/512/1157/1157026.png" width="20"> Check Out My Repos ⬇️ </h2>
