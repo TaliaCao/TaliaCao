@@ -28,7 +28,7 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
 - 🤖 Automated reporting processes saving up to 95% of manual time
 - 📊 Delivered 60% performance improvement in Power BI dashboards
 - 🎓 CPA Australia + Microsoft Certified Power BI Data Analyst (PL-300)
-- 🎤 Speaker & coordinator at [**Excel Virtually Global**](https://www.youtube.com/playlist?list=PLRkcSDfzj3syrHozGszeRl-BYHQHEODkz) conferences (2021-2025), reaching 5,000+ professionals globally
+- 🎤 Speaker & coordinator at [**Excel Virtually Global**](https://www.youtube.com/playlist?list=PLRkcSDfzj3syrHozGszeRl-BYHQHEODkz) conferences (2021-present), reaching 5,000+ professionals globally
 - ✍🏻 Co-author of **Excel challenge blog series** ([Final Friday Fix & Monday Morning Mulling](https://sumproduct.com/blog/tag-filters-final-friday-fix-or-monday-morning-mulling/)).
 <br/>
 <details>
