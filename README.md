@@ -72,5 +72,4 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
     <a href="https://youtube.com/playlist?list=PLRkcSDfzj3syrHozGszeRl-BYHQHEODkz&si=0ptpe2ArdJ-Na2lj"><img title="My YouTube playlist" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"></a>
     <a href="https://taliacao.github.io"><img title="Visit my website" src="https://img.shields.io/badge/-🌐 Website-008080?style=flat"></a>
 </p>
-<br/>
 <h3  align="center"> <img src="https://cdn-icons-png.flaticon.com/512/1157/1157026.png" width="20"> Check Out My Repos ⬇️ </h3>
