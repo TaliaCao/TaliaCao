@@ -25,7 +25,7 @@ over **10 industries** (government, banking, finance, real estate, agriculture,
 education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA & UK).
 <br/><br/>
 #### 🏆 Highlights
-- 🤖 Automated reporting processes saving 95% of manual time
+- 🤖 Automated reporting processes saving up to 95% of manual time
 - 📊 Delivered 60% performance improvement in Power BI dashboards
 - 🎓 CPA Australia + Microsoft Certified Power BI Data Analyst (PL-300)
 - 🎤 Speaker & coordinator at [**Excel Virtually Global**](https://www.youtube.com/playlist?list=PLRkcSDfzj3syrHozGszeRl-BYHQHEODkz) conferences (2021-2025), reaching 5,000+ professionals globally
@@ -72,4 +72,4 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
     <a href="https://youtube.com/playlist?list=PLRkcSDfzj3syrHozGszeRl-BYHQHEODkz&si=0ptpe2ArdJ-Na2lj"><img title="My YouTube playlist" src="https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white"></a>
 </p>
 <br/>
-<h2  align="center"> <img src="https://cdn-icons-png.flaticon.com/512/1157/1157026.png" width="20"> Check Out My Repos ⬇️ </h2>
+<h3  align="center"> <img src="https://cdn-icons-png.flaticon.com/512/1157/1157026.png" width="20"> Check Out My Repos ⬇️ </h3>
