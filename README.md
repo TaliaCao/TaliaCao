@@ -67,7 +67,8 @@ education, pharmacy, retail etc) across the globe (Australia, New Zealand, USA &
   <summary><strong>📂 Featured Projects</strong></summary>
   <br/>
     <ul>
-       <li><a href="https://github.com/TaliaCao/Vietnam-Shape-Map">Vietnam Shape Map</a> - Vietnam geographical visualisation in Power BI</li>
+        <li><a href="https://github.com/TaliaCao/AGSM-Timetable">AGSM Timetable</a> - MBA course planner in Power BI</li>
+        <li><a href="https://github.com/TaliaCao/Vietnam-Shape-Map">Vietnam Shape Map</a> - Vietnam geographical visualisation in Power BI</li>
        <li><a href="https://github.com/TaliaCao/Excel-Virtually-Global">Excel Virtually Global</a> - Materials for my Excel Virtually Global sessions</li>
     </ul>
   <br/>
